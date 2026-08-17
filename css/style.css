@@ -7,14 +7,14 @@
 
 :root{
   /* color */
-  --forest-deep:  #321E14;   /* Marrom Escuro */
+  --forest-deep:  #4D1A00;   /* Bordô */
   --forest-mid:   #4D1A00;   /* Bordô */
   --moss:         #5D7E4B;   /* Verde Oliva Escuro */
   --sky-blue:     #D89C5D;   /* Marrom Areia */
   --sky-pale:     #EAC9A6;   /* Marrom Areia, clareado p/ texto sobre fundo escuro */
   --paper:        #F8F7F3;   /* Branco Floral */
   --paper-dim:    #F5EEE4;   /* Branco Floral, levemente aquecido */
-  --ink:          #321E14;   /* Marrom Escuro */
+  --ink:          #4D1A00;   /* Bordô */
   --ink-soft:     #857972;   /* tom suavizado p/ texto secundário */
   --soil:         #4D1A00;
   --line:         rgba(22,33,29,0.12);
