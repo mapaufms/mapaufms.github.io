@@ -586,6 +586,102 @@ footer.site-footer .foot-bottom{
   font-size: 0.72rem;
 }
 
+/* =========================
+   CONTATO — PALETA MAPA
+   ========================= */
+
+.pagina-contato {
+  background-color: #F8F7F3;
+  color: #321E14;
+}
+
+/* Cabeçalho */
+.pagina-contato .site-header {
+  background-color: #F8F7F3;
+  border-bottom: 1px solid rgba(50, 30, 20, 0.15);
+}
+
+.pagina-contato .brand {
+  color: #321E14;
+}
+
+.pagina-contato .primary-nav a {
+  color: #321E14;
+}
+
+.pagina-contato .primary-nav a:hover,
+.pagina-contato .primary-nav a.active {
+  color: #5D7E4B;
+}
+
+/* Hero da página */
+.pagina-contato .page-hero {
+  background-color: #5D7E4B;
+  color: #F8F7F3;
+}
+
+.pagina-contato .page-hero h1 {
+  color: #F8F7F3;
+}
+
+.pagina-contato .page-hero p {
+  color: #F8F7F3;
+}
+
+.pagina-contato .eyebrow {
+  color: #D89C5D;
+}
+
+/* Área de contato */
+.pagina-contato .section {
+  background-color: #F8F7F3;
+}
+
+.pagina-contato .contact-item {
+  color: #321E14;
+}
+
+.pagina-contato .contact-item .icon {
+  color: #5D7E4B;
+}
+
+.pagina-contato .contact-item .label {
+  color: #4D1A00;
+}
+
+.pagina-contato .contact-item .value {
+  color: #321E14;
+}
+
+.pagina-contato .contact-item a {
+  color: #5D7E4B;
+}
+
+.pagina-contato .contact-item a:hover {
+  color: #4D1A00;
+}
+
+/* Rodapé */
+.pagina-contato .site-footer {
+  background-color: #321E14;
+  color: #F8F7F3;
+}
+
+.pagina-contato .site-footer a {
+  color: #F8F7F3;
+}
+
+.pagina-contato .site-footer a:hover {
+  color: #D89C5D;
+}
+
+.pagina-contato .foot-brand {
+  color: #D89C5D;
+}
+
+.pagina-contato .foot-bottom {
+  border-top-color: rgba(248, 247, 243, 0.15);
+}
 /* Simple fade-in on load */
 .fade-in{ animation: fadeIn .6s ease both; }
 @keyframes fadeIn{ from{ opacity:0; transform: translateY(6px);} to{ opacity:1; transform:none; } }
