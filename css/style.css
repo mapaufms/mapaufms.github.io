@@ -7,16 +7,16 @@
 
 :root{
   /* color */
-  --forest-deep:  #14302A;
-  --forest-mid:   #2D6A4F;
-  --moss:         #74A57F;
-  --sky-blue:     #1D6FA5;
-  --sky-pale:     #CFE3EE;
-  --paper:        #F6F4EC;
-  --paper-dim:    #EDEADF;
-  --ink:          #16211D;
-  --ink-soft:     #45524C;
-  --soil:         #B5651D;
+  --forest-deep:  #321E14;
+  --forest-mid:   #5D7E4B;
+  --moss:         #7C9A6A;
+  --sky-blue:     #D89C5D;
+  --sky-pale:     #E8C39D;
+  --paper:        #F8F7F3;
+  --paper-dim:    #EFEBE0;
+  --ink:          #321E14;
+  --ink-soft:     #6B5645;
+  --soil:         #D89C5D;
   --line:         rgba(22,33,29,0.12);
   --line-on-dark: rgba(246,244,236,0.18);
 
