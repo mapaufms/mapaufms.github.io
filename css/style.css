@@ -126,8 +126,11 @@ a:focus-visible, button:focus-visible{
 }
 
 .brand-mark{
-  width: 34px; height: 34px;
-  flex-shrink:0;
+  width: 34px;
+  height: 34px;
+  flex-shrink: 0;
+  object-fit: contain;
+  border-radius: 50%;
 }
 
 .brand small{
