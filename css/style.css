@@ -458,7 +458,7 @@ nav.primary-nav a.active{
   color: var(--moss);
 }
 .member .avatar.avatar-sm{
-  max-width: 140px;
+  max-width: 180px;
   aspect-ratio: 1;
 }
 .member h3{ font-size: 1.05rem; margin-bottom: 2px; }
